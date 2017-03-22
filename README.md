@@ -1,3 +1,7 @@
+# This Repo is moving!
+Henceforth new updates will be made here: https://github.com/steveKapturowski/tensorflow-rl
+The reason for the new repo and new name is that over time the scope of the code and variety of algorithms implemented has grown significantly such that 'async-deep-rl' no longer seems an accurate desciption of what this is.
+
 # Tensorflow-RL
 
 Tensorflow based implementations of [A3C](https://arxiv.org/abs/1602.01783),
